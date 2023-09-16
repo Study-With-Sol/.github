@@ -17,7 +17,6 @@
 <br>
 
 ## ⏰ 개발 기간
-`개발 진행 중`
 <br>
 2023년 8월 19일 ~ 2023년 09월 17일
 
@@ -54,10 +53,10 @@
             담당
       </td>
        <td align="center" width="130px">
-           로그인 및 회원가입, CI/CD
+           팀장, 로그인 및 회원가입
        </td>
        <td align="center" width="130px">
-         계좌 관리
+         계좌 및 거래, CI/CD
        </td>
        <td align="center" width="130px">
          학습과제
