@@ -80,6 +80,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp; **🛠 SCM** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
+<br>
+
+## 📌 아키텍처
+![image](https://github.com/Study-With-Sol/.github/assets/71878202/a522c60c-7e74-44b4-bb2c-38aa864462e4)
 
 
 <!--### 📌 기술 선택 이유 [ - 상세보기](https://github.com/jtheeeeee/we_are_traveling/wiki/%EA%B8%B0%EC%88%A0-%EC%84%A0%ED%83%9D-%EC%9D%B4%EC%9C%A0)-->
